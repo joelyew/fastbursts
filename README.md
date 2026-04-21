@@ -1,6 +1,7 @@
 # fastbursts
 
-The `fastbursts` package provides a high-performance implementation of Kleinberg's (2002) burst detection algorithm.
+The `fastbursts` package provides a performance-optimized implementation of Kleinberg's (2002) burst detection algorithm, utilizing a linear-time dynamic programming approach for efficient analysis of large event sequences.
+
 
 ## Why use fastbursts?
 
