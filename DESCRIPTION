@@ -3,7 +3,7 @@ Type: Package
 Title: Fast Kleinberg Burst Detection
 Version: 0.1.0
 Author: Joel Yew
-Maintainer: Joel Yew <joelyew@utexas.edu>
+Maintainer: Joel Yew <joel.yew@utexas.edu>
 Description: A performance-optimized implementation of Kleinberg's (2002) burst detection algorithm, utilizing a linear-time dynamic programming approach for efficient analysis of large event sequences.
 
 License: MIT + file LICENSE
