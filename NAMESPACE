@@ -1,0 +1,4 @@
+export(kleinberg)
+S3method(plot, bursts)
+importFrom(graphics, plot)
+importFrom(graphics, rect)
